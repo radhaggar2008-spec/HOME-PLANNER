@@ -1,0 +1,6 @@
+{
+  "name": "Nivaas · Cozy 3D Home Designer & Decor",
+  "description": "Plan your warm, cozy dream home with AI-powered floor plans, interactive 3D touch furniture customization, and an artisanal furniture store in Indian Rupees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
